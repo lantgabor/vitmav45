@@ -13,8 +13,8 @@ Lehetséges források:
 A megoldást részletesen dokumentáld (kommentek, readme.md) és Jupyter Notebook formátumban töltsd fel. A megoldás legyen egyszerűen futtatható.
 A tanítóadatokat külön CSV fájlba mellékeld, illetve a megoldásodban legyen megjelenítve 3 jósolt érték is a következő napokra:
 * október 30.
-* november 1.
-* november 22.
+* november 5.
+* november 26.
 
 Tetszőleges deep learning keretrendszert használhatsz. A kis házi feladatot angol nyelven adjátok be!
 
